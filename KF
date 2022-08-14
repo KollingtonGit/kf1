@@ -1,0 +1,53 @@
+#!/bin/bash
+#remove "#" to activate script
+
+#echo Enter name:
+#read name
+#echo Users name is $name
+#sudo useradd $name
+#sudo passwd $name
+
+#echo enter number 1:
+#read num1
+#echo enter number 2:
+#read num2
+#echo "The sum of both number is:"
+#expr num1 + num2
+
+#n=1
+#while [ $n < 5 ]
+#do
+#echo $n
+#(( n++ ))
+#done
+#echo script is done
+
+#echo enter pin:
+#read pin
+#if [ $pin==1234 ]
+#then 
+#echo Pin is correct
+#elif [ $pin == 1233 ]
+#then 
+#echo retry again
+#else
+#echo Wrong pin
+
+#echo enter number from 1-3:
+#read num
+#case $num in
+#1) User chose 1
+#2) User chose 2
+#3) User chose 3
+#*) User chose number out of range
+#esac
+
+
+
+
+
+
+
+
+
+
